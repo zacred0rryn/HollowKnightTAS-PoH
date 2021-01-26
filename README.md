@@ -32,3 +32,5 @@ Movie Length: 61151 frames (16 min 59.183 sec)
 Thanks for the save file from BlackMoon(DarkLuna).
 
 Thanks BlackMoon, Peony and other people for their strat advices and theoretical instructions.
+
+Thanks Kilaye for the amazing tool.
