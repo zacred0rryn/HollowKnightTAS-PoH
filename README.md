@@ -33,4 +33,4 @@ Thanks for the save file from BlackMoon(DarkLuna).
 
 Thanks BlackMoon, Peony and other people for their strat advices and theoretical instructions.
 
-Thanks Kilaye for the amazing tool.
+Thanks [Kilaye](https://github.com/clementgallet/) for the amazing tool.
