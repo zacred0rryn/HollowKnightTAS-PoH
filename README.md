@@ -8,7 +8,7 @@ For OS or synchronizing info please check the movie annotations.
 
 Game version: 1.4.3.2 for Linux
 
-Author: Zippy Rhys
+Author: [Zippy Rhys](https://space.bilibili.com/12388422)
 
 Re-record count: 11862
 
@@ -29,8 +29,8 @@ Movie Length: 61151 frames (16 min 59.183 sec)
 
 # Credit
 
-Thanks for the save file from BlackMoon(DarkLuna).
+Thanks [BlackMoon(DarkLuna)](https://space.bilibili.com/6443012) for the save file.
 
-Thanks BlackMoon, Peony and other people for their strat advices and theoretical instructions.
+Thanks BlackMoon, [Peony](https://space.bilibili.com/317833921/) and other people for their strat advices and theoretical instructions.
 
 Thanks [Kilaye](https://github.com/clementgallet/) for the amazing tool.
