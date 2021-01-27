@@ -16,7 +16,7 @@ Movie Length: 61151 frames (16 min 59.183 sec)
 
 # Notes
 
-## Possible opmizations: 
+## Possible optimizations: 
 
 * better RNG (eg. Gorb, Oblobbles, Pure Vessel)
 * better strats (eg. Hornet 1)
