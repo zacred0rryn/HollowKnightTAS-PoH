@@ -14,6 +14,8 @@ Re-record count: 11862
 
 Movie Length: 61151 frames (16 min 59.183 sec)
 
+Real Time: 15 min 33.273 sec (read from save file)
+
 # Notes
 
 ## Possible optimizations: 
