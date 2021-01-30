@@ -26,7 +26,7 @@ Real Time: 15 min 33.273 sec (read from save file)
 
 ## Others
 
-* Due to the Steel Soul save file, the in-game Real Time didn't show up at the end of the movie and credits from Team Cherry showed up instead so I discarded this part.
+* Due to the Steel Soul save file, the in-game Real Time didn't show up at the end of the movie and credits from Team Cherry showed up instead so I discarded this part and [WEGFan](https://github.com/wegfan) helped me read the real time from the save file.
 * For some reasons some of the Nail Arts didn't cause proper damages (eg. Nightmare King), which were not noticeable before a boss was finished since I was TASing the vanilla game.
 
 # Credit
